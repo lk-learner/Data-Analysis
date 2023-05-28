@@ -1,7 +1,7 @@
 # SQL Case Study : Tiny Shop Sales
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Coursera KELB5RZGPCH2.png" width=80% height=80%>
+<img src="/Data-Analysis/Tiny Shop Sales/Tiny-Shop-Sales.png" width=80% height=80%>
 
 [Medium Article link](https://medium.com/@LakshmiKadali/sql-case-study-tiny-shop-sales-10b636cbe00e)
 
