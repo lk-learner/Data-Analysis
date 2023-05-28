@@ -1,8 +1,9 @@
-#SQL Case Study : Tiny Shop Sales
+# SQL Case Study : Tiny Shop Sales
 
 [Medium Article link](https://medium.com/@LakshmiKadali/sql-case-study-tiny-shop-sales-10b636cbe00e)
 
-Overview
+#### Overview
+
 Here is the [link](https://d-i-motion.com/lessons/customer-orders-analysis/) for this SQL Case Study. This case study uses PostgreSQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
 
 - Basic aggregations
