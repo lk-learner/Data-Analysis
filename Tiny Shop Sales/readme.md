@@ -1,7 +1,7 @@
 # SQL Case Study : Tiny Shop Sales
 
 <p align="center">
-<img src="/Tiny Shop Sales/Tiny-Shop-Sales.png" width=80% height=80%>
+<img src="/Tiny Shop Sales/Tiny-Shop-Sales.png" width=50% height=50%>
 
 [Medium Article link](https://medium.com/@LakshmiKadali/sql-case-study-tiny-shop-sales-10b636cbe00e)
 
