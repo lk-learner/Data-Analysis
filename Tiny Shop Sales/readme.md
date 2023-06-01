@@ -1,5 +1,7 @@
 # SQL Case Study : Tiny Shop Sales
 
+[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blueviolet?logo=medium)](https://medium.com/@LakshmiKadali/sql-case-study-tiny-shop-sales-10b636cbe00e)
+
 <p align="center">
 <img src="/Tiny Shop Sales/Tiny-Shop-Sales.png" width=50% height=50%>
 
